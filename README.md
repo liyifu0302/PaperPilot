@@ -49,4 +49,4 @@ Note: If you have the original Google Scholar PDF Reader extension installed, un
 
 ## Click Load unpacked and select the extension folder inside the extracted ZIP file.
 
-## Enjoy! 🍾🍾🍾
+## Enjoy! 🍻🍻🍻
