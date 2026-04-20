@@ -13,7 +13,7 @@ Hover over an author’s name to preview their Google Scholar profile. Click the
 
 ## 3. Two-Page View📖📖📖
 Display two pages side by side for a more comfortable reading experience. 
-<img width="9000" height="1956" alt="e544f618-a1ef-4271-b43e-c17ad932097f" src="https://github.com/user-attachments/assets/255dcca4-b8cf-406e-8acb-d13dc2a91975" />
+<img width="3828" height="1956" alt="e544f618-a1ef-4271-b43e-c17ad932097f" src="https://github.com/user-attachments/assets/255dcca4-b8cf-406e-8acb-d13dc2a91975" />
 
 ## 4. Keyword Highlight on Scrollbar🔭🔭🔭
 Keyword matches are highlighted directly on the Chrome/Edge scrollbar, allowing you to quickly locate relevant sections throughout the document.
