@@ -4,11 +4,11 @@ Hope this extension will be helpful!
 
 ## Highlights⭐⭐⭐🎈🎈🎈
 
-## 1. Preview of Tables, Figures, and Appendices📸📸📸
+## 1. Hover Preview 📸📸📸
 Hover over any Table, Figure, or Appendix reference in the main text, and the corresponding item will automatically appear in preview mode. You do not need to switch pages. A toggle button is also provided to switch between preview mode and page-jump mode.
 <img width="1857" height="1365" alt="92bfee6e-30bc-4177-a1b7-ffbbab224861" src="https://github.com/user-attachments/assets/fecd15b7-eb5b-44f5-a7a4-d12a3d849113" />
 
-## 2. Link Authors to Their Google Scholar Profiles🔍🔍🔍
+## 2. Direct Author Access 🔍🔍🔍
 Hover over an author’s name to preview their Google Scholar profile. Click the preview to open the profile directly, with no need to search for it yourself.
 <img width="1896" height="1143" alt="9b1610f1-58af-462e-a220-fdd6c5abd87f" src="https://github.com/user-attachments/assets/fb398519-3315-4945-b565-8b63cb15ab9c" />
 
