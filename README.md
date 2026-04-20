@@ -2,7 +2,7 @@
 This repository is an enhanced fork of the official Google Scholar PDF extension, based on version 0.4.10. 
 Hope this extension will be helpful!
 
-## Highlights⭐⭐⭐
+## Highlights⭐⭐⭐🎈🎈🎈
 
 ## 1. Preview of Tables, Figures, and Appendices📸📸📸
 Hover over any Table, Figure, or Appendix reference in the main text, and the corresponding item will automatically appear in preview mode. You do not need to switch pages. A toggle button is also provided to switch between preview mode and page-jump mode.
