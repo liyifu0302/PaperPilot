@@ -1,4 +1,4 @@
-# Academic-PDF-Reader
+# PaperPilot
 This repository is an enhanced fork of the official Google Scholar PDF extension, based on version 0.4.10. Thanks for Google team's work.
 Hope this extension will be helpful!
 
