@@ -9,7 +9,7 @@ Hope this extension will be helpful!
 ## 2. Hover Preview 📸📸📸
 Hover over any Table, Figure, or Appendix reference in the main text, and the corresponding item will automatically appear in preview mode. You do not need to switch pages. A toggle button is also provided to switch between preview mode and page-jump mode.
 
-Update 0.2.0: You can now display multiple preview windows at once and drag them freely.
+You can now display multiple preview windows at once and drag them freely.
 
 <img width="2207" height="1472" alt="a7547adf-bfa3-42c9-bb60-8b425bb6651a" src="https://github.com/user-attachments/assets/ee59c6e2-a244-449c-b30e-dc1ec733495a" />
 
