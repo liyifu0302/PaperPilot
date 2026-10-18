@@ -2,6 +2,8 @@
 This repository is an enhanced fork of the official Google Scholar PDF extension, based on version 0.4.10. Thanks for Google team's work.
 Hope this extension will be helpful!
 
+You can add this extension to you **Chrome** from here: https://chromewebstore.google.com/detail/paperpilot/aafaoajjiobahffelmopmgaajfleapfj
+
 ## Highlights⭐⭐⭐🎈🎈🎈
 ## 1. A Fresh New Material Design 3 Look 🪄🪄🪄
 <img width="1914" height="974" alt="image" src="https://github.com/user-attachments/assets/e4890e92-236b-461e-a998-47ffd4c0e96e" />
