@@ -33,6 +33,9 @@ Annotate PDF files freely with a built-in drawing tool.
 ## New Features Added🆕🆕🆕
 20261019:
 
+UI modernize.
+<img width="2538" height="96" alt="8e49a729-8e21-405f-9fc5-172f90071e94" src="https://github.com/user-attachments/assets/f83dc913-490f-40de-ad93-49773407bfc2" />
+
 You can now hover on variables, hypothesis, and models in main text and tables to preview their definitions from Appendix or Variable Definitions. 
  <img width="800" height="690" alt="image" src="https://github.com/user-attachments/assets/f03401c9-484a-4251-b5eb-7cbc5450e977" />
 
