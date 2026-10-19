@@ -31,9 +31,12 @@ Annotate PDF files freely with a built-in drawing tool.
 <img width="1281" height="96" alt="be8b71c1-ea8f-48f5-bae9-2b13851ccd38" src="https://github.com/user-attachments/assets/ced9f10f-95c2-4c4f-aea7-f25107f4a9bf" />
 
 ## New Features Added🆕🆕🆕
-20261019: you can now hover on variables in main text and tables to preview their definitions from Appendix or Variable Definitions. 
-          preview hypothesis and model by hovering. 
-          automatic select and copy function -> “…main text…” (Cowle et al., 2022, p. 140)
+20261019: 
+you can now hover on variables in main text and tables to preview their definitions from Appendix or Variable Definitions. 
+          
+preview hypothesis and model by hovering. 
+
+automatic select and copy function -> “…main text…” (Cowle et al., 2022, p. 140)
 
 ## Installation🖥️🖥️🖥️
 
