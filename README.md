@@ -6,13 +6,13 @@ You can add this extension to you **Chrome** from here: https://chromewebstore.g
 
 ## Highlights⭐⭐⭐🎈🎈🎈
 ## 1. A Fresh New Material Design 3 Look 🪄🪄🪄
-<img width="1914" height="974" alt="image" src="https://github.com/user-attachments/assets/e4890e92-236b-461e-a998-47ffd4c0e96e" />
+<img width="1731" height="543" alt="b55f5305f0149051c39122b45b84a058" src="https://github.com/user-attachments/assets/967bf863-fee5-4720-8685-d4accd10a1cc" />
 
 ## 2. Hover Preview 📸📸📸
 Hover over any Table, Figure, or Appendix reference in the main text, and the corresponding item will automatically appear in preview mode. You do not need to switch pages. A toggle button is also provided to switch between preview mode and page-jump mode.
 
 You can now display multiple preview windows at once and drag them freely.
-<img width="2658" height="1842" alt="e90bb110-78e0-4a6e-8aa6-8d02c2e458b2" src="https://github.com/user-attachments/assets/24288d78-1fe6-416d-b3ad-e7e14977485e" />
+<img width="2232" height="1173" alt="84c4b43914f51bc01c00ea96c1d90e30" src="https://github.com/user-attachments/assets/c0eadd14-1490-4ace-9e62-590e872b0cb7" />
 
 ## 3. Direct Author Access 🔍🔍🔍
 Hover over an author’s name to preview their Google Scholar profile. Click the preview to open the profile directly, with no need to search for it yourself.
@@ -20,7 +20,7 @@ Hover over an author’s name to preview their Google Scholar profile. Click the
 
 ## 4. Two-Page View📖📖📖
 Display two pages side by side for a more comfortable reading experience. 
-<img width="3744" height="1926" alt="e78d612b-0e1d-424a-9459-aa88c6eeeab0" src="https://github.com/user-attachments/assets/37c9cf94-0312-43c7-9285-431b1bd1f50a" />
+<img width="3840" height="1956" alt="d3af55c3-1c53-426c-9a24-89796f7069ee" src="https://github.com/user-attachments/assets/f74467ad-c334-49fb-9fad-f8088a6ed1d2" />
 
 ## 5. Keyword Highlight on Scrollbar🔭🔭🔭
 Keyword matches are highlighted directly on the Chrome/Edge scrollbar, allowing you to quickly locate relevant sections throughout the document.
@@ -31,7 +31,6 @@ Annotate PDF files freely with a built-in drawing tool.
 <img width="1281" height="96" alt="be8b71c1-ea8f-48f5-bae9-2b13851ccd38" src="https://github.com/user-attachments/assets/ced9f10f-95c2-4c4f-aea7-f25107f4a9bf" />
 
 ## New Features Added🆕🆕🆕
-20261019:
 
 UI modernize.
 <img width="2538" height="96" alt="8e49a729-8e21-405f-9fc5-172f90071e94" src="https://github.com/user-attachments/assets/f83dc913-490f-40de-ad93-49773407bfc2" />
