@@ -16,7 +16,7 @@ You can now display multiple preview windows at once and drag them freely.
 
 ## 3. Direct Author Access 🔍🔍🔍
 Hover over an author’s name to preview their Google Scholar profile. Click the preview to open the profile directly, with no need to search for it yourself.
-<img width="849" height="1173" alt="9a53cdce-63be-4014-81e4-d0e3ccfe3fb0" src="https://github.com/user-attachments/assets/864e5ee4-0680-42e9-8b52-b0332fb79a58" />
+<img width="419" height="254" alt="image" src="https://github.com/user-attachments/assets/15c9a9b6-7805-4088-a423-762b57b32fe9" />
 
 ## 4. Two-Page View📖📖📖
 Display two pages side by side for a more comfortable reading experience. 
