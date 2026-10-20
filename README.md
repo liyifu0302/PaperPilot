@@ -24,7 +24,7 @@ Display two pages side by side for a more comfortable reading experience.
 
 ## 5. Keyword Highlight on Scrollbar🔭🔭🔭
 Keyword matches are highlighted directly on the Chrome/Edge scrollbar, allowing you to quickly locate relevant sections throughout the document.
-<img width="66" height="656" alt="38796780-87ac-4247-b6e2-17aa6226a07b" src="https://github.com/user-attachments/assets/de95ce5e-272f-4f26-8985-eee2215d15e8" />
+<img width="36" height="183" alt="f777df8c-d966-46ce-be72-d27dedeb9524" src="https://github.com/user-attachments/assets/f17ebf12-4c66-4cd1-b4cb-f361803e3c7f" />
 
 ## 6. Drawing Tool🖌️🖌️🖌️
 Annotate PDF files freely with a built-in drawing tool.
