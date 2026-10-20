@@ -28,7 +28,7 @@ Keyword matches are highlighted directly on the Chrome/Edge scrollbar, allowing 
 
 ## 6. Drawing Tool🖌️🖌️🖌️
 Annotate PDF files freely with a built-in drawing tool.
-<img width="1281" height="96" alt="be8b71c1-ea8f-48f5-bae9-2b13851ccd38" src="https://github.com/user-attachments/assets/ced9f10f-95c2-4c4f-aea7-f25107f4a9bf" />
+<img width="741" height="90" alt="363cb9e6-b592-4466-b309-40051d287713" src="https://github.com/user-attachments/assets/1d4b61d4-f70f-460e-9d41-77b8d1e759f2" />
 
 ## New Features Added🆕🆕🆕
 
